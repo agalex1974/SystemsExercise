@@ -1,0 +1,20 @@
+/diseaseFrequency SARSCOV-2 12-5-2019 13-5-2020
+/diseaseFrequency FLU-2018 12-5-2019 13-5-2020 Cyprus
+/diseaseFrequency MERS-COV 12-5-2019 13-5-2020 Nepal
+/diseaseFrequency FLU-2018 12-5-2019 13-5-2020 Poland
+/diseaseFrequency COVID-2019 - - Poland
+/diseaseFrequency SARSCOV-2 - - 
+/diseaseFrequency FLU-2018 - - Cyprus
+/diseaseFrequency MERS-COV - - Nepal
+/topk-AgeRanges 3 Cyprus FLU-2018 12-5-2019 13-5-2020
+/topk-AgeRanges 2 Poland MERS-COV 12-5-2019 13-5-2020
+/topk-AgeRanges 1 Nepal FLU-2018 12-5-2019 13-5-2020
+/topk-AgeRanges 4 Poland COVID-2019 12-5-2019 13-5-2020
+/searchPatientRecord 51974
+/searchPatientRecord 86105
+/numPatientAdmissions COVID-2019 12-5-2019 13-5-2020 Cyprus
+/numPatientAdmissions FLU-2018 12-5-2019 13-5-2020 Poland
+/numPatientAdmissions COVID-2019 12-5-2019 13-5-2020 
+/numPatientDischarges COVID-2019 12-5-2019 13-5-2020 Cyprus
+/numPatientDischarges FLU-2018 12-5-2019 13-5-2020 Poland
+/numPatientDischarges COVID-2019 12-5-2019 13-5-2020 
